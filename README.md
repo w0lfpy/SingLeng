@@ -59,7 +59,7 @@ pip install opencv-python mediapipe numpy pandas
 
 4. Ejecuta el script principal:
 
-Puedes elegir entre los dos modelos de reconocimiento:
+    Puedes elegir entre los dos modelos de reconocimiento:
 - Para el modelo basado en lógica de landmarks:
 ```sh
 python src/dataRecognitionModel2.py
@@ -89,8 +89,11 @@ python src/dataRecognitionModel.py
 
 ## Créditos
 Dataset: Sign Language MNIST
+
 MediaPipe: Google MediaPipe
+
 **Autor:** 
 Jose Suárez
+
 **Licencia:**  
 Todos los derechos tanto personales como comerciales quedan reservados en exclusiva a los creadores del contenido mostrado.
